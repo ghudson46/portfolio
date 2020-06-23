@@ -5,7 +5,7 @@
 }
 
 body {
-  background-color: gold;
+  background-color: gray;
 }
 
 /*styling for header and nav*/
@@ -59,7 +59,7 @@ p {
 /*background image and styling*/
 
 .hero {
-  height: 800px;
+  height: 500px;
   width: 100%;
   margin-bottom: 25px;
   background-image: url("https://miro.medium.com/max/3060/1*rGiHBnlqf6-koapA2DzUoA.jpeg");
@@ -109,6 +109,7 @@ aside {
 .benefit-lead {
   margin-bottom: 32px;
   color: #ffffff;
+  border-radius: 20px;
 }
 
 .benefit-brand {
@@ -165,6 +166,7 @@ aside {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #800020;
   color: #ffffff;
+  border-radius: 20px;
 }
 
 .portfolio {
@@ -174,6 +176,7 @@ aside {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #800020;
   color: #ffffff;
+  border-radius: 20px;
 }
 
 .contact-info {
@@ -183,6 +186,7 @@ aside {
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   background-color: #800020;
   color: #ffffff;
+  border-radius: 20px;
 }
 
 /*img sizing for main content*/

@@ -4,6 +4,10 @@
   margin: 0;
 }
 
+html {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 body {
   background-color: gray;
 }
